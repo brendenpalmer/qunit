@@ -4,6 +4,5 @@
 /docs/_site/
 /docs/Gemfile.lock
 /node_modules/
-/qunit/
 /temp/
 /.eslintcache
